@@ -10,4 +10,5 @@ Project Showcase: The "Projects" page includes screenshots and descriptions of s
 Technologies Used
 <li>React: The website is built using the React JavaScript library, which allows for easy component-based design and dynamic updates.</li>
 <li>HTML and CSS: I used HTML and CSS to structure and style the website, with a focus on clean and readable code.</li>
+<li>Node.js: The website is hosted using Node.js on the backend, which allows for easy deployment and scalability.</li>
   </ul>
